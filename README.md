@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishi9808&label=Profile%20views&color=0e75b6&style=flat" alt="rishi9808" /> </p>
 
-- 🔭 I’m currently working on [DALL-E CLONE](https://github.com/rishi9808/dalle-clone)
+- 🔭 I’m currently working on [Youtube-Clone](https://github.com/rishi9808/youtube-clone)
 
 - 🌱 I’m currently learning **React,Django,Python**
 
